@@ -1,0 +1,19 @@
+
+#frm{
+	border: solid gray 1px;
+	width: 20%;
+	margin: 100px auto;
+	background : white;
+	border-radius: 5px;
+	padding: 50px;
+}
+#sub{
+	color: #fff;
+	background : #2963cd;
+	margin-left: 150px;
+	padding: 5px;
+	width: 20%;
+}
+.h3{
+	text-align: center;
+}
